@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {"id":"pananaroon","title":"Pananaroon","description":"Proverbs and wise sayings"},
+    {"id":"kandomana","title":"Kandomana","description":"Speeches / Orations"},
+    {"id":"bayok","title":"Bayok","description":"Poetry / Lyric forms"},
+    {"id":"oragis","title":"Oragis","description":"Narratives / Stories"},
+    {"id":"darangen","title":"Darangen","description":"Epic heritage"},
+    {"id":"kapamlalag","title":"Kapamlalag","description":"Riddles / Wordplay"},
+    {"id":"totholan","title":"Totholan ko Radia Indaraptra","description":"Mythical tales"},
+    {"id":"mori","title":"Mori a Kapranon","subtitle":"Dr. Rizal’s My Last Farewell (Sen. Dr. Ahmad Alonto)","description":"Classic translation"}
+  ],
+  "entries": {
+    "pananaroon": [
+      {"id":"p1","title":"Example Proverb 1","text":"[Insert text…]","source":"[Ref]"},
+      {"id":"p2","title":"Example Proverb 2","text":"[Insert text…]","source":"[Ref]"}
+    ],
+    "kandomana": [],
+    "bayok": [],
+    "oragis": [],
+    "darangen": [],
+    "kapamlalag": [],
+    "totholan": [],
+    "mori": []
+  },
+  "glossary": [
+    {"term":"Aga","definition":"[Meaning…]"},
+    {"term":"Baid","definition":"[Meaning…]"}
+  ]
+}
