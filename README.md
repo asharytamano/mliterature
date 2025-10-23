@@ -125,11 +125,10 @@ Each category has an array of entries:
 
 🧑‍💻 Developer Info
 
-Developer: Ashary Tamano
-Role: I.T. Specialist, Planner, Cultural Researcher
-Location: Philippines
-GitHub: @asharytamano
-Email: (optional, add if public)
+Developer: Ashary Tamano<br>
+Role: I.T. Specialist, Planner, Cultural Researcher<br>
+Location: Philippines<br>
+GitHub: @asharytamano<br>
 
 ---
 
