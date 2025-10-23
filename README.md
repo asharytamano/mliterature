@@ -162,17 +162,3 @@ Feel free to use and adapt, provided proper attribution is given to the develope
 • Maranao scholars and elders for preserving oral traditions<br>
 • All contributors to the ongoing cultural digitization of Lanao heritage<br>
 
----
-
-## ✅ NEXT STEP
-In VS Code:
-
-1. Right-click your project root → **New File → README.md**  
-2. Paste everything above.  
-3. Save (`Ctrl+S`).  
-4. Commit and push:
-   ```bash
-   git add README.md
-   git commit -m "Add professional README with roadmap and features"
-   git push
-
