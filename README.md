@@ -34,6 +34,20 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/asharytamano/mliterature/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/asharytamano/mliterature/expo-build.yml?style=for-the-badge&logo=githubactions&logoColor=white" alt="Build Status">
+  </a>
+  <a href="https://github.com/asharytamano/mliterature/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/asharytamano/mliterature?color=0088ff&style=for-the-badge" alt="Contributors">
+  </a>
+  <a href="https://github.com/asharytamano/mliterature/pulse">
+    <img src="https://img.shields.io/badge/Maintained-Yes-success?style=for-the-badge" alt="Maintained">
+  </a>
+</p>
+
+---
+
 # 📚 Maranao Literature App
 
 A digital preservation project dedicated to the rich **Maranao literary heritage** — including *Pananaroon* (proverbs), *Kandomana* (speeches), *Bayok* (poetry), *Oragis* (stories), *Darangen* (epic), *Kapamlalag* (riddles), *Totholan ko Radia Indaraptra* (myth), and *Mori a Kapranon* (Dr. Rizal’s *My Last Farewell*, translated by Sen. Dr. Ahmad Alonto).
