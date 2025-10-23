@@ -111,7 +111,7 @@ mliterature/
 ---
 
 💾 Data Management
-All text data is stored in src/data/literature.json.
+All text data is stored in src/data/literature.json.<br>
 Each category has an array of entries:
 
 {
@@ -133,7 +133,7 @@ GitHub: @asharytamano<br>
 ---
 
 🕌 Cultural Mission
-“Preserving the language, wisdom, and identity of the Maranao people — one app at a time.”
+“Preserving the language, wisdom, and identity of the Maranao people — one app at a time.”<br>
 The Maranao Literature App aims to serve as both an educational tool and a digital archive for scholars, teachers, and young learners alike.
 
 ---
@@ -149,7 +149,7 @@ The Maranao Literature App aims to serve as both an educational tool and a digit
 ---
 
 🛡️ License
-This project is released under the MIT License.
+This project is released under the MIT License.<br>
 Feel free to use and adapt, provided proper attribution is given to the developer and cultural source material.
 
 ---
