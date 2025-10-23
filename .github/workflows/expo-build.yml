@@ -58,3 +58,5 @@ jobs:
         with:
           name: expo-build-logs
           path: dist/
+      - name: Expo Publish Preview
+        run: npx expo publish --non-interactive
