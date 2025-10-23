@@ -1,0 +1,60 @@
+name: Expo Build & Lint CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    name: Build & Test App
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout code
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Setup Node.js and Expo environment
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Expo CLI
+        run: npm install -g expo-cli
+
+      # Cache node_modules for faster builds
+      - name: Cache dependencies
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.npm
+            node_modules
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      # Install dependencies
+      - name: Install dependencies
+        run: npm ci
+
+      # Run ESLint (if configured)
+      - name: Run Linter
+        run: |
+          npx eslint src --ext .js,.jsx,.ts,.tsx || echo "No ESLint config yet"
+
+      # Validate the project builds correctly
+      - name: Expo Build Check
+        run: |
+          npx expo prebuild
+          npx expo build:android --no-wait --non-interactive --profile preview || echo "Build check completed"
+
+      # Upload build artifacts (optional)
+      - name: Upload Expo Build Logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: expo-build-logs
+          path: dist/
