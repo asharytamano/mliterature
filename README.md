@@ -157,10 +157,10 @@ Feel free to use and adapt, provided proper attribution is given to the develope
 
 🕊️ Acknowledgments
 
-• All contents are from the book "Sempad a Maradika a Paninggalan sa Ranao" based on the thoughts and ideas of Tingcap G. Onadi, and written by Jamel S. Macarampat
-• The late Senator Dr. Ahmad Alonto for his translation of Rizal's My Last Farewell (Mori a Kapranon)
-• Maranao scholars and elders for preserving oral traditions
-• All contributors to the ongoing cultural digitization of Lanao heritage
+• All contents are from the book "Sempad a Maradika a Paninggalan sa Ranao" based on the thoughts and ideas of Tingcap G. Onadi, and written by Jamel S. Macarampat<br>
+• The late Senator Dr. Ahmad Alonto for his translation of Rizal's My Last Farewell (Mori a Kapranon)<br>
+• Maranao scholars and elders for preserving oral traditions<br>
+• All contributors to the ongoing cultural digitization of Lanao heritage<br>
 
 ---
 
