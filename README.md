@@ -1,3 +1,39 @@
+<p align="center">
+  <img src="assets/logo/mliterature-logo.png" alt="Maranao Literature Logo" width="120" />
+</p>
+
+<h1 align="center">📚 Maranao Literature App</h1>
+
+<p align="center">
+  <i>Preserving Maranao wisdom, poetry, and heritage — one app at a time.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/asharytamano/mliterature/stargazers">
+    <img src="https://img.shields.io/github/stars/asharytamano/mliterature?color=FFD700&style=for-the-badge" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/asharytamano/mliterature/network/members">
+    <img src="https://img.shields.io/github/forks/asharytamano/mliterature?color=20B2AA&style=for-the-badge" alt="GitHub Forks">
+  </a>
+  <a href="https://github.com/asharytamano/mliterature/issues">
+    <img src="https://img.shields.io/github/issues/asharytamano/mliterature?color=DC143C&style=for-the-badge" alt="GitHub Issues">
+  </a>
+  <a href="https://github.com/asharytamano/mliterature/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License: MIT">
+  </a>
+  <a href="https://expo.dev">
+    <img src="https://img.shields.io/badge/Expo-51.0.0-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo SDK">
+  </a>
+  <a href="https://reactnative.dev/">
+    <img src="https://img.shields.io/badge/React_Native-v0.76-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
+  </a>
+  <a href="https://github.com/asharytamano/mliterature/commits/main">
+    <img src="https://img.shields.io/github/last-commit/asharytamano/mliterature?color=orange&style=for-the-badge" alt="Last Commit">
+  </a>
+</p>
+
+---
+
 # 📚 Maranao Literature App
 
 A digital preservation project dedicated to the rich **Maranao literary heritage** — including *Pananaroon* (proverbs), *Kandomana* (speeches), *Bayok* (poetry), *Oragis* (stories), *Darangen* (epic), *Kapamlalag* (riddles), *Totholan ko Radia Indaraptra* (myth), and *Mori a Kapranon* (Dr. Rizal’s *My Last Farewell*, translated by Sen. Dr. Ahmad Alonto).
